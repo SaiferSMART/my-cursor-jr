@@ -4,7 +4,7 @@
 
 CursorJr объясняет без техножаргона: что нажать, какой режим выбрать, как не сломать проект, как подключать MCP, создавать rules/skills, собирать отчёты в Canvas и превращать повторяющиеся задачи в понятные сценарии.
 
-[Telegram Maya Pro](https://t.me/maya_pro)
+[![Telegram Maya Pro](https://img.shields.io/badge/Telegram-Maya%20Pro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maya_pro)
 
 ## Для кого
 
@@ -127,14 +127,26 @@ cd cursor-jr
 
 ## База знаний
 
-CursorJr опирается на официальные источники Cursor:
+CursorJr опирается не на четыре страницы, а на карту официальной документации Cursor. Эти ссылки — корневые разделы:
 
 - https://cursor.com/ru/docs
 - https://cursor.com/ru/learn
 - https://cursor.com/ru/help
 - https://cursor.com/ru/docs/api
 
-В репозитории лежат не “сырые копии документации”, а упрощённые русскоязычные карточки, playbooks и wizards для новичков.
+Отдельно индексируются десятки конкретных страниц по темам:
+
+- Agent, Ask Mode, Plan Mode, Debug Mode, Design Mode и Agent Review;
+- Terminal, Browser, Search и Canvas tools;
+- Rules, Skills, Subagents и MCP;
+- Security, Run Modes и permissions;
+- Cloud Agents, Automations и Hooks;
+- Teams, Dashboard, usage limits, integrations, Bugbot и Security Agents;
+- CLI, SDK и Cloud Agent API.
+
+Реальная карта обработанных URL лежит в `knowledge-base/manifest.json`, а покрытие проверяется скриптом `scripts/audit-coverage.ps1`.
+
+В репозитории лежат не “сырые копии документации”, а упрощённые русскоязычные карточки, playbooks и wizards для новичков. Локальные raw/drafts после sync намеренно не публикуются в GitHub.
 
 ## Автоматизация и MCP
 
@@ -161,7 +173,7 @@ CursorJr не аффилирован с Cursor Inc. Это открытый ру
 
 ## Контакты
 
-Telegram: [Maya Pro](https://t.me/maya_pro)
+[![Telegram Maya Pro](https://img.shields.io/badge/Telegram-Maya%20Pro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maya_pro)
 
 ## Лицензия
 
