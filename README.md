@@ -4,6 +4,7 @@
 
 CursorJr объясняет без техножаргона: что нажать, какой режим выбрать, как не сломать проект, как подключать MCP, создавать rules/skills, собирать отчёты в Canvas и превращать повторяющиеся задачи в понятные сценарии.
 
+[![Быстрая локальная установка](https://img.shields.io/badge/Быстрая%20локальная%20установка-CursorJr-111111?style=for-the-badge&logo=cursor&logoColor=white)](#быстрая-локальная-установка)
 [![Telegram Maya Pro](https://img.shields.io/badge/Telegram-Maya%20Pro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maya_pro)
 
 ## Для кого
@@ -76,6 +77,18 @@ flowchart TD
 ```
 
 ## Установка
+
+### Быстрая локальная установка
+
+Скопируйте команду в PowerShell из папки, куда хотите скачать CursorJr:
+
+```powershell
+git clone https://github.com/Horosheff/cursor-jr.git; cd cursor-jr; .\scripts\install-plugin.ps1
+```
+
+После установки перезапустите Cursor.
+
+### Ручная установка
 
 Склонируйте репозиторий и запустите установку:
 
