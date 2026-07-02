@@ -1,0 +1,21 @@
+{
+  "name": "cursor-jr",
+  "displayName": "CursorJr",
+  "description": "Русскоязычный наставник Cursor для новичков (не разработчиков): режимы, rules, skills, MCP, автоматизация.",
+  "version": "0.4.0",
+  "keywords": [
+    "cursor",
+    "beginner",
+    "onboarding",
+    "russian",
+    "subagents",
+    "help"
+  ],
+  "author": {
+    "name": "CursorJr"
+  },
+  "rules": "./rules/",
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}
