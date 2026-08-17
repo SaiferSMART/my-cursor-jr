@@ -2,6 +2,13 @@
 
 Формат: дата — что изменилось — источник.
 
+## 2026-07-10
+
+- Добавлен playbook `05-kontent-i-marketing.md` для контентщиков и маркетологов
+- Добавлен wizard `wizard-content-marketing.md`
+- Добавлена KB-карточка `05-praktika/kontent-i-marketing.md`
+- Обновлены INDEX, wizard-router, beginner-profiles и маршрутизация `cursor-jr`
+
 ## 2026-07-02 (6)
 
 - Добавлены `scripts/health-check.ps1` и команда `/cursor-jr-health`

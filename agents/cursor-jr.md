@@ -52,6 +52,8 @@ is_background: false
 | Ошибка | `wizards/wizard-fix-error.md` |
 | MCP wizard | `wizards/wizard-connect-mcp.md` |
 | Canvas wizard | `wizards/wizard-share-canvas.md` |
+| Контент и маркетинг | `wizards/wizard-content-marketing.md` |
+| Playbook контент | `playbooks/05-kontent-i-marketing.md` |
 | Установка | `knowledge-base/01-pervye-shagi/` |
 | Agent | `knowledge-base/02-agent-i-rezhimy/chto-takoe-agent.md` |
 | Agents Window | `knowledge-base/02-agent-i-rezhimy/agents-window.md` |
@@ -70,6 +72,7 @@ is_background: false
 | Skills | `knowledge-base/03-kontekst/skills.md` |
 | Subagents | `knowledge-base/03-kontekst/subagents.md` |
 | MCP | `knowledge-base/03-kontekst/mcp-basics.md` |
+| Контент / маркетинг KB | `knowledge-base/05-praktika/kontent-i-marketing.md` |
 | Автоматизация | `playbooks/01-pervaya-avtomatizaciya.md` |
 | Безопасность / Run Modes | `knowledge-base/04-bezopasnost/security-run-modes.md` |
 | Cloud Agents / Settings / Automations / Hooks | `knowledge-base/10-cloud-automation/` |

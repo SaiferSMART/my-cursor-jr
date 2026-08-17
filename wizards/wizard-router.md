@@ -11,6 +11,7 @@ flowchart TD
     error[Исправить ошибку]
     mcp[Подключить сервис]
     canvas[Сделать отчёт или поделиться]
+    content[Написать текст или лендинг]
 
     start --> understand
     start --> change
@@ -18,6 +19,7 @@ flowchart TD
     start --> error
     start --> mcp
     start --> canvas
+    start --> content
 ```
 
 ## Маршруты
@@ -31,3 +33,4 @@ flowchart TD
 | Ошибка | Debug | `wizard-fix-error.md` |
 | Внешний сервис | Plan | `wizard-connect-mcp.md` |
 | Отчёт / дашборд | Agent + Canvas | `wizard-share-canvas.md` |
+| Текст, пост, лендинг | Ask / Agent / Plan | `wizard-content-marketing.md` |

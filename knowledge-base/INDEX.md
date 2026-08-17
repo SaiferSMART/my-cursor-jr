@@ -28,6 +28,7 @@ last_synced: 2026-07-02
 - [Подключить MCP](../wizards/wizard-connect-mcp.md)
 - [Исправить ошибку](../wizards/wizard-fix-error.md)
 - [Canvas и Shared Canvas](../wizards/wizard-share-canvas.md)
+- [Контент и маркетинг](../wizards/wizard-content-marketing.md)
 
 ## Разделы
 
@@ -67,6 +68,7 @@ last_synced: 2026-07-02
 - [Plan Mode workflow](05-praktika/plan-mode-workflow.md)
 - [Ревью diff](05-praktika/review-diff.md)
 - [Troubleshooting](05-praktika/troubleshooting.md)
+- [Контент и маркетинг](05-praktika/kontent-i-marketing.md)
 - [Cursor за 7 дней](learning-path-7-days.md)
 - [Типичные проблемы новичков](typical-beginner-failures.md)
 
@@ -130,6 +132,7 @@ last_synced: 2026-07-02
 - [02 — Подключить MCP](../playbooks/02-podklyuchit-mcp.md)
 - [03 — Создать субагента](../playbooks/03-sozdat-subagenta.md)
 - [04 — Откат и безопасность](../playbooks/04-otkat-i-bezopasnost.md)
+- [05 — Контент и маркетинг](../playbooks/05-kontent-i-marketing.md)
 
 ## Официальные источники
 
